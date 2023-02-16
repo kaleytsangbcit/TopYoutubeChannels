@@ -10,20 +10,21 @@ npm run dev
 yarn dev
 ```
 
-
 ## Data Used
 
 From Kaggle - Most Subscried YouTube Channels
 https://www.kaggle.com/datasets/themrityunjaypathak/most-subscribed-1000-youtube-channels
 
-
 ## Programming language Used
 
 Next.js 13
+<br />
 Playwright
+<br />
 React
 
 ## Installation of Packages command lines/How to run your application
+
 Go to the root of this folder:
 
 ```
@@ -39,11 +40,11 @@ Npm run dev
 ```
 
 Open another terminal:
+
 ```
 npm run test:e2e
 ```
 
-
 ## Description
 
-It is a project that showing the Most Subscribed Youtube Channel grabbing the dataset from Kaggle. 
+It is a project that showing the Most Subscribed Youtube Channel grabbing the dataset from Kaggle.
