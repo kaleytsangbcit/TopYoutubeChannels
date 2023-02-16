@@ -22,6 +22,27 @@ https://www.kaggle.com/datasets/themrityunjaypathak/most-subscribed-1000-youtube
 Next.js 13
 Playwright
 
+## Installation of Packages command lines/How to run your application
+Go to the root of this folder:
+
+```
+npm install --save-dev @playwright/test
+
+npx playwright install
+```
+
+Open terminal:
+
+```
+Npm run dev
+```
+
+Open another terminal:
+```
+npm run test:e2e
+```
+
+
 ## Description
 
 It is a project that showing the Most Subscribed Youtube Channel grabbing the dataset from Kaggle. 
