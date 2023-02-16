@@ -21,6 +21,7 @@ https://www.kaggle.com/datasets/themrityunjaypathak/most-subscribed-1000-youtube
 
 Next.js 13
 Playwright
+React
 
 ## Installation of Packages command lines/How to run your application
 Go to the root of this folder:
